@@ -1,4 +1,4 @@
-![Logo](favicon.png)
+![Logo](icon-original.png)
 
 # Adatage
 
