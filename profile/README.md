@@ -1,5 +1,3 @@
-![Logo](icon-original.png)
-
 # Adatage
 
 ## About Us
